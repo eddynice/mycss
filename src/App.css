@@ -1,0 +1,15 @@
+/**.grid-container {
+  display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 20px 1fr;
+    height: 90vh;
+    background-color: #dadbd3;
+    */s
+  
+
+.app{
+  background-color:chocolate;
+  min-height:500px ;
+  margin:40px auto ;
+}
+
